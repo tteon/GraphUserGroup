@@ -1,2 +1,16 @@
-# GUG_graphusergroup-in-south_korea
-to share each person graph skill and upgrade them .
+# GUG contents including code and dataset
+
+session1
+TBD
+
+
+session2
+TBD
+
+
+session3
+TBD
+
+
+session4
+TBD
